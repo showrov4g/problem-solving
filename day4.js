@@ -3,7 +3,7 @@ function solution(str) {
 }
 
 function goals(laLigaGoals, copaDelReyGoals, championsLeagueGoals) {
-    const result =  laLigaGoals + copaDelReyGoals + championsLeagueGoals;
+    const result = laLigaGoals + copaDelReyGoals + championsLeagueGoals;
     return result;
 }
 
